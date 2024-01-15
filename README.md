@@ -24,3 +24,5 @@ This project is licensed under the MIT License.
 ## Connect
 
 If you would like to contact me, find me on [Github](https://github.com/jason82autotech) or email me at <jason82autotech@gmail.com>.
+
+Most of this code was provided by the school. I modified it to suit my needs with the help of classmates, ask BCS, tutuors, Ta's and of course ChatGpt, Google and YouTube!
