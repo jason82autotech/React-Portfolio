@@ -1,3 +1,4 @@
+import React from "react";
 import { removeHyphensAndCapitalize } from '../../utils/helpers';
 import * as projects from '../../assets';
 
@@ -19,7 +20,7 @@ function Project({ project }) {
             <i className="fab fa-github" />
           </a>
         </h3>
-        <p>{description}</p>
+        <p>{StuffThings}</p>
       </div>
     </div>
   );
